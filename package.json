@@ -1,0 +1,31 @@
+{
+  "name": "@bu0nq/style.scss.function.em",
+  "version": "0.1.0",
+  "description": "Package for integrating Style.SCSS.Function.Em",
+  "main": "em.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/style.scss.function.em.git"
+  },
+  "keywords": [
+    "style",
+    "scss",
+    "function",
+    "em"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/style.scss.function.em/issues"
+  },
+  "homepage": "https://github.com/bu0nq/style.scss.function.em#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
